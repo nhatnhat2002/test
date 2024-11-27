@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 Nov 2024 15:40:50 at https://themesbrand.com/veltrix/layouts/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesbrand.com/veltrix/layouts/index.html -O1 "C:\Users\as\Desktop\12\123" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:42:08	Error: 	"Not Found" (404) at link https://themesbrand.com/veltrix/layouts/assets/css/bootstrap-dark.min.css (from https://themesbrand.com/veltrix/layouts/index.html)
+15:42:08	Error: 	"Not Found" (404) at link https://themesbrand.com/veltrix/layouts/assets/css/app-dark.min.css (from https://themesbrand.com/veltrix/layouts/index.html)
+15:42:09	Error: 	"Not Found" (404) at link https://themesbrand.com/veltrix/layouts/assets/libs/summernote/summernote-bs4.min.css (from https://themesbrand.com/veltrix/layouts/email-compose.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 20 seconds : 309 links scanned, 305 files written (24237598 bytes overall) [14414384 bytes received at 180179 bytes/sec], 12961877 bytes transferred using HTTP compression in 203 files, ratio 23%, 44.1 requests per connection
+(3 errors, 0 warnings, 0 messages)
